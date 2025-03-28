@@ -1,0 +1,11 @@
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\DKC Projects++\DKC3 Init scripts\DKC3 Init scripts\bin\Debug\DKC3 Init scripts.exe.config
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\DKC Projects++\DKC3 Init scripts\DKC3 Init scripts\bin\Debug\DKC3 Init scripts.exe
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\DKC Projects++\DKC3 Init scripts\DKC3 Init scripts\bin\Debug\DKC3 Init scripts.pdb
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\DKC Projects++\DKC3 Init scripts\DKC3 Init scripts\obj\Debug\DKC3 Init scripts.csprojAssemblyReference.cache
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\DKC Projects++\DKC3 Init scripts\DKC3 Init scripts\obj\Debug\DKC3_Init_scripts.Form1.resources
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\DKC Projects++\DKC3 Init scripts\DKC3 Init scripts\obj\Debug\DKC3_Init_scripts.Properties.Resources.resources
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\DKC Projects++\DKC3 Init scripts\DKC3 Init scripts\obj\Debug\DKC3 Init scripts.csproj.GenerateResource.cache
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\DKC Projects++\DKC3 Init scripts\DKC3 Init scripts\obj\Debug\DKC3 Init scripts.csproj.CoreCompileInputs.cache
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\DKC Projects++\DKC3 Init scripts\DKC3 Init scripts\obj\Debug\DKC3 Init scripts.exe
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\DKC Projects++\DKC3 Init scripts\DKC3 Init scripts\obj\Debug\DKC3 Init scripts.pdb
+C:\Users\mikem\OneDrive\Documents\Visual Studio 2017\DKC Projects++\DKC3 Init scripts\DKC3 Init scripts\obj\Debug\DKC3_Init_scripts.SpriteSelect.resources
